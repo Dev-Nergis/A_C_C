@@ -17,6 +17,16 @@ from selenium.webdriver.common.by import By
 
 # 함수불러오기
 
+def get_id():
+    try:
+        with open("config.json", "r", encoding="utf-8") as f:
+            json_data = json.load(f)
+            json_data["id"]
+            json_data["pw"]
+            return json_data
+    except:
+        return save_id()
+
 def word_get(driver, num_d):
     da_e = [0 for i in range(num_d)]
     da_k = [0 for i in range(num_d)]
