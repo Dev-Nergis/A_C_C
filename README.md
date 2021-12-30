@@ -13,13 +13,14 @@ https://user-images.githubusercontent.com/70435510/123519683-d092c080-d6e7-11eb-
 Chrome,Python
 ```
 
+[**Chrome**](https://www.google.com/intl/ko/chrome),[**Python**](https://www.python.org/downloads)
+
 ### Installing / 설치
 아래 사항들로 현 프로젝트에 관한 모듈들을 설치할 수 있습니다.
 
 ```
 pip install -r requirements.txt
 ```
-
 
 ### 구현방법
 
