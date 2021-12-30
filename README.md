@@ -10,7 +10,7 @@ https://user-images.githubusercontent.com/70435510/123519683-d092c080-d6e7-11eb-
 아래 사항들이 설치가 되어있어야합니다.
 
 ```
-Chrome
+Chrome,Python
 ```
 
 ### Installing / 설치
